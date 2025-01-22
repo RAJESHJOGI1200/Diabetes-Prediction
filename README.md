@@ -79,4 +79,4 @@ Contributions are welcome! Please fork the repository and create a pull request.
 ## Contact
 
 For queries, reach out to:  
-[Your Email Address or GitHub Profile Link]
+https://github.com/RAJESHJOGI1200
